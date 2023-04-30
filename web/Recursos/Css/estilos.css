@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#cont1{
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    align-items: flex-end;
+}
+
+#titulo{
+    width: 450px;
+    height: 60px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+#botones{
+    width: 990px;
+    height: 60px;
+    background-color: #666666;
+    align-content: space-around;
+    justify-content: right;
+    display: flex;
+}
+
+#Lateral{
+    width: 450px;
+    height: 722px;
+    background-color:#cccccc;
+    text-align: center;
+    color: white;
+    font-size:22px;
+}
+.caja{
+    border: none;
+    border-radius: 5px;
+    border: 1px solid #666666;
+    padding-left: 20px;
+    margin-top: 10px;
+    background-color: white;
+    color:skyblue;
+    font-size:15px;
+    font-family: cursive;
+}
+#tit{
+    width: 290px;
+    height: 40px;
+}
+#descripcion{
+    width: 290px;
+    height: 200px;
+}
+.botton{
+    margin-top: 15px;
+    width: 220px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0065ff;
+    color: white;
+}
+
+.linea{
+    border-bottom: 3px solid skyblue;
+    height: 35px;
+    max-width: 850px;
+    padding-top: 50px;
+    color:skyblue;
+    font-size: 20px;
+    margin-left: 290px;
+    margin-top: 20px;
+    font-family: cursive;
+}
+
+#Dashboard{
+    width: 990px;
+    height: 722px;
+    display: flex;
+    margin-top: -722px;
+    margin-left: 450px;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    letter-spacing: 10px;
+    background-color: white;
+}
+#Tabla{
+    margin-top: 150px;
+    margin-left: -270px;
+
+}
+a{
+    color:white;
+}
